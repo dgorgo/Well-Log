@@ -1,5 +1,5 @@
 North Sea Well Log Analysis Project
-Overview
+
 This project involves the analysis of well log data from the North Sea. The raw data, provided in .las files,
 was processed using the lasio Python library and subsequently transformed into a Pandas DataFrame for analysis. 
 The project includes data cleaning and preprocessing, exploratory data analysis (EDA), visualization, and t
